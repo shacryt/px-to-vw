@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+html {
+  background-color: rgb(255, 255, 255);
+  color: #372d44 !important;
+  height: 100%;
+  font-size: 0.8vw;
+}
+
+body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.fl-row {
+  display: flex;
+  flex-shrink: 0;
+}
+
+.fl-column {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.fl-full-center {
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.fl-division {
+  flex: 1;
+}
+
+.fl-wrap {
+  flex-wrap: wrap;
+}
+
+.fl-align-center {
+  align-items: center;
+}
+
+.fl-align-start {
+  align-items: flex-start;
+}
+
+.fl-align-end {
+  align-items: flex-end;
+}
+
+.fl-align-baseline {
+  align-items: baseline;
+}
+
+.fl-justify-start {
+  justify-content: flex-start;
+}
+
+.fl-justify-end {
+  justify-content: flex-end;
+}
+
+.fl-justify-baseline {
+  justify-content: baseline;
+}
+
+.fl-justify-center {
+  justify-content: center;
+}
+
+.fl-text-center {
+  text-align: center;
+}
+
+.fl-text-start {
+  text-align: start;
+}
+
+.fl-text-end {
+  text-align: end;
+}
+
+.fl-full-width {
+  width: 100%;
+}
+
+.fl-full-height {
+  height: 100%;
+}
