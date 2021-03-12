@@ -1,6 +1,6 @@
 A PX/VW converter made to simplify the process of transitioning between the two units when building a website.
 
-**Note: Please acrefullyu set the base width when converting.**
+**Note: Please don't forget to change the base width when converting.**
 
 ## Calculator A (PX to VW)
 
